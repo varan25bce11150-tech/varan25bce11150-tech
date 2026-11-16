@@ -20,16 +20,39 @@
 
 </div>
 
-## About
+# 🚀 About Me
 
-I'm a Computer Science student at VIT Bhopal University who enjoys turning problems into software that works. Most of my projects are built around Python backends — Django, Flask and FastAPI — along with the frontend, database and data work that goes with them.
+```python
+class VaranSinghSodhi:
+    def __init__(self):
+        self.education = "B.Tech Computer Science Engineering"
+        self.university = "VIT Bhopal University"
+        self.batch = "2025"
 
-I'm most interested in practical applications: things someone could actually open and use. I learn best by building, so the projects below are a fair record of what I've been working on.
+        self.roles = [
+            "Software Developer",
+            "Python Developer",
+            "Problem Solver",
+            "Tech Enthusiast"
+        ]
 
-- **Studying** Computer Science at VIT Bhopal University
-- **Interned** as a Python Developer at Pinnacle Labs
-- **Building** full-stack web applications with Python backends
-- **Exploring** applied machine learning and data analytics
+        self.focus = [
+            "Software Development",
+            "Full Stack Development",
+            "Data Analytics",
+            "Machine Learning",
+            "Backend Engineering",
+            "Problem Solving"
+        ]
+
+    def mission(self):
+        return "Building practical solutions through code 🚀"
+
+
+🎓 B.Tech Computer Science Engineering  
+🏫 VIT Bhopal University  
+📅 Batch **2025**
+```
 
 ## Tech stack
 
